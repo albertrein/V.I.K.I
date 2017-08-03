@@ -1,4 +1,4 @@
-# **ShellBot**
+# **V.I.K.I - ShellBot**
 ![ShellBot](https://github.com/shellscriptx/ShellBot/blob/master/ShellBot.png)
 
 ## Sobre
